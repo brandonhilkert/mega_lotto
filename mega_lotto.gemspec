@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = MegaLotto::VERSION
   spec.authors       = ["Brandon Hilkert"]
   spec.email         = ["brandonhilkert@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A Ruby gem to generate lottery drawings.}
+  spec.description   = %q{A Ruby gem to generate lottery drawings.}
+  spec.homepage      = "https://github.com/brandonhilkert/mega_lotto"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

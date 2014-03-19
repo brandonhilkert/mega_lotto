@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-``ruby
+```ruby
 MegaLotto::Drawing.new.draw # => [23, 2, 12, 4, 3]
 ```
 
